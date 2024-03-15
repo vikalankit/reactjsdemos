@@ -1,0 +1,5 @@
+.resizeElement {
+    overflow:auto;
+    resize: both;
+    position: relative;
+}
